@@ -1,6 +1,6 @@
 #include "functions.h"
 
-int ENEMYhas101(int n, int m, int field[N][M]){
+int Ihave101(int n, int m, int field[N][M]){
     int count = 0, i, j, ii, jj, y ,g;
     for (i = 0; i < n; i++){
         for(j = 0; j < m; j++){

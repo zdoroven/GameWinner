@@ -24,7 +24,8 @@ SOURCES += \
     enemyhastwopos.cpp \
     ihaveonepos.cpp \
     ihavetwopos.cpp \
-    ihave101.cpp
+    ihave101.cpp \
+    makemove.cpp
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
