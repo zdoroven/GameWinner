@@ -25,7 +25,7 @@ SOURCES += \
     ihaveonepos.cpp \
     ihavetwopos.cpp \
     ihave101.cpp \
-    makemove.cpp
+    maketurn.cpp
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
