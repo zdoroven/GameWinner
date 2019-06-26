@@ -126,8 +126,8 @@ int IhaveTwoPos(int n, int m, int field[N][M]){
                         }
                     }
                 }
-                jj++;
             }
+            jj++;
         }
     }
     //Проверка если есть возможность завершить
